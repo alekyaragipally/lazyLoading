@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "lazyLoading"
+    }
+  },
+  "defaultProject": "lazyLoading",
+  "cli": {
+    "analytics": "f479eb07-a74a-4631-953f-e82d0091e866"
+  }
 }
